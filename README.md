@@ -26,6 +26,10 @@
 * Results section should not introduce new tasks or models. Summarize the tables. 
 * Any non-trivial notation should be introduced as early possible. Ideally background.
 
+## Links
+
+* Rational Reconstruction http://www.eecs.harvard.edu/~shieber/Blog/
+
 
 ## Exercises
 
