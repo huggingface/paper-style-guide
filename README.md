@@ -36,7 +36,16 @@
 ## Small Tips
 
 * Turn off `\usepackage[review]{emnlp}` to `\usepackage[]{emnlp}` while editing to fix overleaf linking.
-* Use `\newcommand{\todo}[1]{{\small\color{red}{\bf [*** Todo: #1]}}}` for inline comments.
+* Turn on Track Changes in Overleaf
+* Use new commands for inline comments to help track who did what (some examples):
+```
+\newcommand{\johndoe}[1]{{\small\color{blue}{\bf [*** JD: #1]}}}
+\newcommand{\todo}[1]{{\small\color{red}{\bf [*** Todo: #1]}}}
+\newcommand{\fixed}[1]{{\small\color{orange}{\bf [*** #1 (Fixed)]}}}`
+
+%\newcommand{\fixed}[1]{{#1}} % Uncomment in the end to be sure...
+```
+
 
 
 
