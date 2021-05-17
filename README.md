@@ -29,6 +29,7 @@
 * Any non-trivial notation should be introduced as early possible. Ideally background.
 * 8 pages is an extremely hard limit. 
 * Always use \`\` '' for quotes not " ". 
+* Use bold sparingly. Opt for italics for new technical terms.
 
 
 ## Small Tips
