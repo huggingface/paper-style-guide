@@ -23,6 +23,7 @@
 * The goal of related work is not just to list papers, but to explicitly make claims as to how your work differs from each one.
 * Figures should have a white background and large fonts. Do not screenshot! Generate a high-res, pdf output. 
 * Use present tense (almost) everywhere.
+* You do not need a summary paragraph at the end of your intro. 
 * All empirical results must be in a table or figure. 
 * Methods section should not introduce new modeling. Enumerate the tasks, baselines, hyperparameters.
 * Results section should not introduce new tasks or models. Summarize the tables. 
