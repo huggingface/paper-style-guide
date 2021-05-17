@@ -1,5 +1,5 @@
-# Paper Style Guide
-by @srush
+# HF Paper Style Guide
+
 
 ## Libraries to Know
 
