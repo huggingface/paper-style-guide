@@ -6,7 +6,7 @@ by @srush
 * [booktabs](https://nhigham.com/2019/11/19/better-latex-tables-with-booktabs/)
 * [natbib](https://es.overleaf.com/learn/latex/Bibliography_management_with_natbib)
 * [cleveref](http://tug.ctan.org/tex-archive/macros/latex/contrib/cleveref/cleveref.pdf)
-* Either [seaborn](https://seaborn.pydata.org/) or [altair](https://altair-viz.github.io/)
+* Either [seaborn](https://seaborn.pydata.org/) or [altair](https://altair-viz.github.io/) for graphs
 * [algorithmicx](https://ctan.mirrors.hoobly.com/macros/latex/contrib/algorithmicx/algorithmicx.pdf)
 
 ## General
