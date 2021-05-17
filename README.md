@@ -1,4 +1,4 @@
-# HF Paper Style Guide
+# 🤗 Paper Style Guide
 
 
 (Work in progress, send a PR!)
@@ -28,6 +28,7 @@
 * Results section should not introduce new tasks or models. Summarize the tables. 
 * Any non-trivial notation should be introduced as early possible. Ideally background.
 * 8 pages is an extremely hard limit. 
+* Always use \`\` '' for quotes not " ". 
 
 
 ## Small Tips
