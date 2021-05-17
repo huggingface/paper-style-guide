@@ -1,6 +1,8 @@
 # HF Paper Style Guide
 
 
+(Work in progress, send a PR!)
+
 ## Libraries to Know
 
 * [booktabs](https://nhigham.com/2019/11/19/better-latex-tables-with-booktabs/)
