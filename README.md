@@ -25,6 +25,15 @@
 * Methods section should not introduce new modeling. Enumerate the tasks, baselines, hyperparameters.
 * Results section should not introduce new tasks or models. Summarize the tables. 
 * Any non-trivial notation should be introduced as early possible. Ideally background.
+* 8 pages is an extremely hard limit. 
+
+
+## Small Tips
+
+* Turn off `\usepackage[review]{emnlp}` to `\usepackage[]{emnlp}` while editing to fix overleaf linking.
+* Use `\newcommand{\todo}[1]{{\small\color{red}{\bf [*** Todo: #1]}}}` for inline comments.
+
+
 
 ## Links
 
