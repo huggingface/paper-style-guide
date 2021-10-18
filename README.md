@@ -43,7 +43,7 @@
 ## Links
 
 * Rational Reconstruction http://www.eecs.harvard.edu/~shieber/Blog/
-
+* ICML paper blog https://icml.cc/Conferences/2002/craft.html
 
 ## Exercises
 
