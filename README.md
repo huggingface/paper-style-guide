@@ -42,7 +42,7 @@
 
 ## Links
 
-* Rational Reconstruction http://www.eecs.harvard.edu/~shieber/Blog/
+* Rational Reconstruction https://web.stanford.edu/class/cs224u/readings/shieber-writing.pdf
 * ICML paper blog https://icml.cc/Conferences/2002/craft.html
 
 ## Exercises
