@@ -10,6 +10,7 @@
 * [cleveref](http://tug.ctan.org/tex-archive/macros/latex/contrib/cleveref/cleveref.pdf)
 * Either [seaborn](https://seaborn.pydata.org/), plotly or [altair](https://altair-viz.github.io/) for graphs
 * [algorithmicx](https://ctan.mirrors.hoobly.com/macros/latex/contrib/algorithmicx/algorithmicx.pdf)
+* [rebiber](https://github.com/yuchenlin/rebiber) for automatically standarized bib update
 
 ## General
 
